@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/friedbergjon/portfolio/go/static/css/main.4a44bd15.chunk.css",
-    "main.js": "/friedbergjon/portfolio/go/static/js/main.77404da7.chunk.js",
-    "main.js.map": "/friedbergjon/portfolio/go/static/js/main.77404da7.chunk.js.map",
-    "runtime~main.js": "/friedbergjon/portfolio/go/static/js/runtime~main.cfa72d99.js",
-    "runtime~main.js.map": "/friedbergjon/portfolio/go/static/js/runtime~main.cfa72d99.js.map",
-    "static/js/2.3310f33a.chunk.js": "/friedbergjon/portfolio/go/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/friedbergjon/portfolio/go/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/friedbergjon/portfolio/go/index.html",
-    "precache-manifest.c1df89cc32c58940d16bb1cbbe7540d4.js": "/friedbergjon/portfolio/go/precache-manifest.c1df89cc32c58940d16bb1cbbe7540d4.js",
-    "service-worker.js": "/friedbergjon/portfolio/go/service-worker.js",
-    "static/css/main.4a44bd15.chunk.css.map": "/friedbergjon/portfolio/go/static/css/main.4a44bd15.chunk.css.map",
-    "static/media/logo.svg": "/friedbergjon/portfolio/go/static/media/logo.5d5d9eef.svg"
+    "main.css": "/portfolio/static/css/main.4a44bd15.chunk.css",
+    "main.js": "/portfolio/static/js/main.2a599f9c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2a599f9c.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.3310f33a.chunk.js": "/portfolio/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/portfolio/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d359111022e36fc5cf8d74336f1bfb1b.js": "/portfolio/precache-manifest.d359111022e36fc5cf8d74336f1bfb1b.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.4a44bd15.chunk.css.map": "/portfolio/static/css/main.4a44bd15.chunk.css.map",
+    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
   }
 }
